@@ -14,6 +14,8 @@
 		3F60412B2ADEA09D0000E25C /* Lab4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F60412A2ADEA09D0000E25C /* Lab4Tests.swift */; };
 		3F6041352ADEA09D0000E25C /* Lab4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6041342ADEA09D0000E25C /* Lab4UITests.swift */; };
 		3F6041372ADEA09D0000E25C /* Lab4UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6041362ADEA09D0000E25C /* Lab4UITestsLaunchTests.swift */; };
+		3F6041442ADEA0BA0000E25C /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6041432ADEA0BA0000E25C /* CardView.swift */; };
+		3F6041462ADEA13A0000E25C /* ThemeButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6041452ADEA13A0000E25C /* ThemeButtons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		3F6041302ADEA09D0000E25C /* Lab4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F6041342ADEA09D0000E25C /* Lab4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab4UITests.swift; sourceTree = "<group>"; };
 		3F6041362ADEA09D0000E25C /* Lab4UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab4UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F6041432ADEA0BA0000E25C /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		3F6041452ADEA13A0000E25C /* ThemeButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeButtons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				3F60411B2ADEA09B0000E25C /* ContentView.swift */,
 				3F60411D2ADEA09D0000E25C /* Assets.xcassets */,
 				3F60411F2ADEA09D0000E25C /* Preview Content */,
+				3F6041432ADEA0BA0000E25C /* CardView.swift */,
+				3F6041452ADEA13A0000E25C /* ThemeButtons.swift */,
 			);
 			path = Lab4;
 			sourceTree = "<group>";
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F60411C2ADEA09B0000E25C /* ContentView.swift in Sources */,
+				3F6041442ADEA0BA0000E25C /* CardView.swift in Sources */,
 				3F60411A2ADEA09B0000E25C /* Lab4App.swift in Sources */,
+				3F6041462ADEA13A0000E25C /* ThemeButtons.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
